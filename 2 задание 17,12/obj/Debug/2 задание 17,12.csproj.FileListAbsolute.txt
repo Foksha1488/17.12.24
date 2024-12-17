@@ -1,0 +1,7 @@
+D:\Фокша\2 задание 17,12\bin\Debug\2 задание 17,12.exe.config
+D:\Фокша\2 задание 17,12\bin\Debug\2 задание 17,12.exe
+D:\Фокша\2 задание 17,12\bin\Debug\2 задание 17,12.pdb
+D:\Фокша\2 задание 17,12\obj\Debug\2 задание 17,12.csproj.AssemblyReference.cache
+D:\Фокша\2 задание 17,12\obj\Debug\2 задание 17,12.csproj.CoreCompileInputs.cache
+D:\Фокша\2 задание 17,12\obj\Debug\2 задание 17,12.exe
+D:\Фокша\2 задание 17,12\obj\Debug\2 задание 17,12.pdb
